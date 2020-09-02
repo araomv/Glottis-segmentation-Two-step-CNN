@@ -10,6 +10,6 @@ Steps to follow:
           annotations are in the form of .png files, with glottis region pixels labelled as '1' and non glottal regions as '0'  
     5) Train CNN1 - run train1.py with mname=CNN1  
     6) Get CNN1 output - run predict.py with mname=CNN1   
-    7) Run Boundingbox.m to generate data for CNN2
+    7) Run Boundingbox.m to generate data for CNN2  
     8) Train CNN2 - run train1.py with mname=CNN2  
     9) Test the two step CNN method - Run test.py to get the dice scores  
