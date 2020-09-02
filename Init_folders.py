@@ -1,6 +1,7 @@
 import os
 
 os.mkdir('./Data')
+os.mkdir('./weights')
 
 Data_aug_methods = ['NO','WB','WO']
 
