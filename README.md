@@ -1,4 +1,4 @@
-This code is suport the publicatio Varun Belagali, **Achuth Rao M V**, Pebbili Gopikishore, Rahul Krishnamurthy, and Prasanta Kumar Ghosh, “Two step convolutional neural network for automatic glottis localization and segmentation in stroboscopic videos”, Biomed. Opt. Express 11, 4695-4713 (2020)
+This code is suport the publicatio **Varun Belagali, Achuth Rao M V, Pebbili Gopikishore, Rahul Krishnamurthy, and Prasanta Kumar Ghosh, “Two step convolutional neural network for automatic glottis localization and segmentation in stroboscopic videos”, Biomed. Opt. Express 11, 4695-4713 (2020)**
 
 Steps to follow to train and test the models:  
     1) Run the Init_folders.py to create the folders  
