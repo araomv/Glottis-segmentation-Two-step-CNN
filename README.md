@@ -1,7 +1,6 @@
-# two-step-cnn
-Two step convolutional neural network  
+This code is suport the publicatio Varun Belagali, Achuth Rao M V, Pebbili Gopikishore, Rahul Krishnamurthy, and Prasanta Kumar Ghosh, “Two step convolutional neural network for automatic glottis localization and segmentation in stroboscopic videos”, Biomed. Opt. Express 11, 4695-4713 (2020)
 
-Steps to follow:  
+Steps to follow to train and test the models:  
     1) Run the Init_folders.py to create the folders  
     2) Download the vgg weights file to ./weights folder   
        link - https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels.h5  
